@@ -1,0 +1,31 @@
+.caja-proyectos{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.proyectos{
+    width: 250px;
+    border-radius: 20px;
+    background-color: #4158D0;
+    font-size: small;
+    font-weight: 200;
+}
+
+img{
+    width: 350px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.logos-tecnologias{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logos-tecnologias img{
+    width: 50px;
+    border-radius: 50%;
+    
+}

@@ -1,0 +1,24 @@
+.java{
+    padding: 20px;
+    font-family: DynaPuff;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: rgba(193, 86, 4, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    background: #0AA6F5;
+    background: linear-gradient(90deg, rgba(10, 166, 245, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+
+
+.java .titulo{
+    width: 350px;
+    height: 150px;
+
+    background-image: url(../media/banner.webp);
+    color: white;
+    background-size: cover;
+    margin-bottom: 10%;
+}
+
+.java .titulo h2{
+    margin-left: 55px;
+}
